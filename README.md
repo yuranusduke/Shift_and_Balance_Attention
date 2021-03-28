@@ -7,10 +7,12 @@ implementation, please send me an email at yuranusduke@163.com or simply add iss
 ## Backgrounds
 In this paper, authors rethink the idea from SE net. They argue that SE may make gradient vanishing and lead to the wastage of channels due the use of Sigmoid function, and also it constrains the attention
 branch to a certain degree, scaled attention is too sensitive to coordinate and balance the two branches’ contributions. Therefore, they propose Shift-and-Balance(SB) Attention to address above problems. The diagram shows as follows,
-![img](./README/sb.png)
+
+![img](./README/sb.png =150x50)
 
 And formula goes as follows,
-![img](./README/f1.png)
+
+![img](./README/f1.png =50x100)
 
 One can read paper carefully to understand how and why they design architecture like this.
 
