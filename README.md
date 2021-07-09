@@ -1,6 +1,6 @@
 # Reproducing ***Shift-and-Balance Attention***
 
-First of all, thank the authors very much for sharing this excellent paper ***<Shift-and-Balance Attention>*** with us. This repository contains SB Attention and simple verification for modified VGG16
+First of all, thank the authors very much for sharing this excellent paper ***Shift-and-Balance Attention*** with us. This repository contains SB Attention and simple verification for modified VGG16
 with CIFAR10. If there are some bug problems in the 
 implementation, please send me an email at yuranusduke@163.com or simply add issue.
 
